@@ -1,6 +1,6 @@
 ---
-title: Documentation
-permalink: /docs/
+title: Background
+permalink: /background/
 
 layout: docs
 sidenav: docs
